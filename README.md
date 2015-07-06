@@ -1,5 +1,5 @@
-LiteBox v1.3
-============
+LiteBox v1.31
+=============
 
 A versatile, auto detecting content, lightbox/modal window for use with images, embedded content (YouTube, Vimeo, Daily Motion and KickStarter), iframes and inline html.
 
